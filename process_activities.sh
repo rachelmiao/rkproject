@@ -1,5 +1,4 @@
 #!/bin/bash
-echo $title
 filename=$1
 regex1='\(.*\): \(.*\) (\(.*\))'
 regex2='\(.*\): \(.*\)'
